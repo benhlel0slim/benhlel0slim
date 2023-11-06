@@ -1,5 +1,9 @@
 ![MasterHead](https://github.com/benhlel0slim/benhlel0slim/assets/94851678/4a570330-b197-4f63-b010-44a550e15fcd)
-<h1 align="center">Hi 👋, I'm Selim Ben Hlel</h1>
+
+<p align="center">
+<img align="center" alt="name"  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=09FAFF&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm++Selim+Ben+hlel">
+</p>
+
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 <p align="center">
 <img align="center" alt="Coding" width="400" src="https://github.com/benhlel0slim/benhlel0slim/assets/94851678/3717cbcd-bb16-466b-a807-1fcec9927e54">
